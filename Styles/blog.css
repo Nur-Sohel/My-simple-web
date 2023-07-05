@@ -1,8 +1,7 @@
-h1{
-    background-color: tomato;
-}
+
 div{
     font-size: 20px;
     padding: 10px;
     background-color: aqua;
+    margin-bottom: 10px;
 }
